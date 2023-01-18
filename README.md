@@ -9,12 +9,15 @@ lights. It's an open source project meant to be used in a theater, streaming or 
 
 ### How to use
 To install the repository on your local computer run the following in your terminal:
+
 `git clone [URL]`
+
 where URL is the url given to you when you click the code button in the upper
 right of this page.
 
 To run the app you will need to have NodeJS installed.
 The app can be run using the following in your terminal:
+
 `npx expo start` 
 
 
