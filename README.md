@@ -18,6 +18,9 @@ The app can be run using the following in your terminal:
 
 `npx expo start` 
 
+You will want to install an app on your phone called expo go, and you will then
+be able to run it by scanning the qr code in the terminal with your camera!
+
 ### Helpful Websites
 
 ### Authors
