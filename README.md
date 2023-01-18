@@ -38,6 +38,7 @@ The music analysis is done using...
 
 ### Helpful Websites
 [OpenCV.js Tutorial](https://docs.opencv.org/4.x/d5/d10/tutorial_js_root.html)
+[OpenCV.js Node Tutorial](https://docs.opencv.org/4.x/dc/de6/tutorial_js_nodejs.html)
 
 ### Authors
 - Nathan Wood
