@@ -9,14 +9,34 @@
     "web": "expo start --web"
   },
   "dependencies": {
-    "expo": "~47.0.12",
+    "@expo/webpack-config": "^0.17.2",
+    "canvas": "^2.11.0",
+    "expo": "^47.0.13",
     "expo-splash-screen": "~0.17.5",
     "expo-status-bar": "~1.4.2",
+    "fs": "^0.0.1-security",
+    "jsdom": "^21.1.0",
     "react": "18.1.0",
-    "react-native": "0.70.5"
+    "react-dom": "18.1.0",
+    "react-native": "0.70.5",
+    "react-native-canvas": "^0.1.38",
+    "react-native-web": "~0.18.9",
+    "react-native-webview": "^11.26.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
   },
-  "private": true
+  "private": true,
+  "description": "Musica de la Web is a project designed to stream music whilst being able to control LED \r lights. It's an open source project meant to be used in a theater, streaming or gaming room.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Numba-Juan/musica-de-la-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Numba-Juan/musica-de-la-web/issues"
+  },
+  "homepage": "https://github.com/Numba-Juan/musica-de-la-web#readme"
 }
